@@ -56,7 +56,7 @@
 
 - [Songify](https://github.com/abramovich-maks/songify) *(in progress)*  
   Microservice for user management (CRUD operations, JWT authentication).  
-  **Tech:** Spring Boot, MySQL, Docker  
+  **Tech:** Spring Boot, PostgreSQL, Docker  
 
 ---
 
