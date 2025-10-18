@@ -54,9 +54,9 @@
   Full-stack application for kindergartens with features like user registration, schedules, menus, gallery, chat, and admin panel.  
   **Tech:** Spring Boot, MySQL, JWT, AWS S3  
 
-- [Songify](https://github.com/abramovich-maks/songify) *(in progress)*  
-  Microservice for user management (CRUD operations, JWT authentication).  
-  **Tech:** Spring Boot, PostgreSQL, Docker  
+- [Songify](https://github.com/abramovich-maks/songify) 
+Music management app for albums, songs, artists & genres with full CRUD and JWT authentication.  
+**Tech:** Spring Boot, React, PostgreSQL, Docker
 
 ---
 
