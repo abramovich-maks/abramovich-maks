@@ -48,11 +48,27 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Main Project
 
-- [SproutSync](https://github.com/abramovich-maks/SproutSync) *(in progress)*  
-  Full-stack application for kindergartens with features like user registration, schedules, menus, gallery, chat, and admin panel.  
-  **Tech:** Spring Boot, MySQL, JWT, AWS S3  
+### 📚 Vocabulary SRS  
+👉 https://github.com/abramovich-maks/VocabularySRS  
+🌍 Live: https://my-vocab.eu
+
+**Backend-driven language learning platform based on an adaptive Spaced Repetition System (SRS).**
+
+The system models the **learning process as business logic**, not just CRUD:
+
+- On-demand generation of learning & review tasks  
+- Adaptive repetition intervals based on user performance  
+- Daily test snapshots (no background schedulers)  
+- JWT (RSA) authentication & role-based access  
+- Integration tests as executable business specifications  
+
+**Tech:** Java 17 · Spring Boot · PostgreSQL · Spring Security · JWT · Testcontainers · REST
+
+---
+
+## 🛠 Other Projects
 
 - [Songify](https://github.com/abramovich-maks/songify)   
 Music management app for albums, songs, artists & genres with full CRUD and JWT authentication.  
