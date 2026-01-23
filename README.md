@@ -53,6 +53,7 @@
 ### 📚 Vocabulary SRS  
 👉 https://github.com/abramovich-maks/VocabularySRS  
 🌍 Live: https://my-vocab.eu
+📘 REST API (Swagger): https://my-vocab.eu/api/swagger-ui/index.html
 
 **Backend-driven language learning platform based on an adaptive Spaced Repetition System (SRS).**
 
